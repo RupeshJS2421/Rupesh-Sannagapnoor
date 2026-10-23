@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Modern Cosmic Cyber Gradient Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,20:0f172a,50:0284c7,80:38bdf8,100:818cf8&height=250&section=header&text=Rupesh%20Sannagapnoor&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=DevOps%20Manager%20%E2%80%A2%20AWS%20Cloud%20Architect%20%E2%80%A2%20Platform%20Engineer&descAlignY=58&descSize=15&descColor=38bdf8&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,20:0f172a,50:0284c7,80:38bdf8,100:818cf8&height=250&section=header&text=Rupesh%20Sannagapnoor&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Release%20and%20DevOps%20Manager%20%E2%80%A2%20AWS%20Cloud%20Architect%20%E2%80%A2%20Platform%20Engineer&descAlignY=58&descSize=15&descColor=38bdf8&animation=fadeIn"/>
 
 <!-- Dynamic Terminal Typing Subtitle -->
 <a href="https://sudarshangawande.com">
@@ -29,16 +29,16 @@
   <a href="https://komarev.com/ghpvc/?username=sudarshan-gawande&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS">
     <img src="https://komarev.com/ghpvc/?username=sudarshan-gawande&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
-  <a href="https://www.linkedin.com/in/sudarshan-gawande/">
+  <a href="https://www.linkedin.com/in/rupeshsannagapnoor/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://sudarshangawande.com">
     <img src="https://img.shields.io/badge/Portfolio-Explore-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.credly.com/users/sudarshan-gawande/">
-    <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified" />
+  <a href="https://www.credly.com/users/rupesh-sannagapnoor.3c7d1c6f/">
+    <img src="https://img.shields.io/badge/ACTIVATE-AI-Foundation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="ACTIVATE AI Foundation" />
   </a>
-  <a href="mailto:sudarshangawande98@gmail.com">
+  <a href="mailto:rupesh.sanna171195@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
