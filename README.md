@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Explore-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.credly.com/users/rupesh-sannagapnoor.3c7d1c6f/">
-    <img src="https://img.shields.io/badge/ACTIVATE-AI-Foundation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="ACTIVATE AI Foundation" />
+    <img src="https://img.shields.io/badge/other-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="ACTIVATE AI Foundation" />
   </a>
   <a href="mailto:rupesh.sanna171195@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
