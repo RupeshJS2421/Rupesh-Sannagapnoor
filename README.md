@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Modern Cosmic Cyber Gradient Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,20:0f172a,50:0284c7,80:38bdf8,100:818cf8&height=250&section=header&text=Sudarshan%20Gawande&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=DevOps%20Manager%20%E2%80%A2%20AWS%20Cloud%20Architect%20%E2%80%A2%20Platform%20Engineer&descAlignY=58&descSize=15&descColor=38bdf8&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,20:0f172a,50:0284c7,80:38bdf8,100:818cf8&height=250&section=header&text=Rupesh%20Sannagapnoor&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=DevOps%20Manager%20%E2%80%A2%20AWS%20Cloud%20Architect%20%E2%80%A2%20Platform%20Engineer&descAlignY=58&descSize=15&descColor=38bdf8&animation=fadeIn"/>
 
 <!-- Dynamic Terminal Typing Subtitle -->
 <a href="https://sudarshangawande.com">
@@ -76,9 +76,9 @@
 ```yaml
 # ~/.config/engineer.yml
 engineer_identity:
-  name: "Sudarshan Gawande"
-  title: "DevOps Manager at Bajaj Broking"
-  alumni: "National Stock Exchange of India (NSE)"
+  name: "Rupesh Sannagapnoor"
+  title: "Release management & DevOps  at National Stock Exchange of India (NSE)"
+  alumni: "Capgemini Technology Services India Limited "
   mission: "Bridging engineering velocity with zero-downtime reliability & cloud economics."
 
 command_center:
